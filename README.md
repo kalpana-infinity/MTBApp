@@ -1,5 +1,3 @@
-
-
 # Multithreaded Banking Application (MTBApp)
 
 A secure, Java-based desktop banking application that uses multithreading, Java Swing GUI, and Oracle 11g for backend database management. Built using the MVC architecture and incorporates AES encryption for password protection and thread-safe transaction processing.
@@ -18,28 +16,13 @@ A secure, Java-based desktop banking application that uses multithreading, Java 
 
 ---
 
-## 📂 Folder Structure
-
-MTBApp/
-├── src/ # Java source code (MVC)
-├── db/ # SQL script or schema instructions
-├── lib/ # JDBC driver (e.g., ojdbc6.jar)
-├── screenshots/ # GUI images (for report/demo)
-├── README.md
-├── LICENSE (MIT or Apache 2.0)
-└── BankingApp.jar # Compiled JAR file
-
-
----
-
 ## 🛠️ Technologies Used
 
-- **Language:** Java 8+
+- **Language:** Java 
 - **GUI:** Java Swing
-- **Database:** Oracle 11g XE
+- **Database:** Oracle 11g
 - **Database Connection:** JDBC
 - **Threading:** ExecutorService, synchronized methods
-- **Security:** AES encryption for passwords
 
 ---
 
