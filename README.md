@@ -9,7 +9,6 @@ A secure, Java-based desktop banking application that uses multithreading, Java 
 - Java Swing GUI interface
 - Oracle 11g Database with JDBC
 - Multithreaded transaction handling (ExecutorService + synchronized methods)
-- MVC Architecture
 - Account creation and login
 - Deposit and withdrawal operations
 - Admin dashboard to view and manage accounts
